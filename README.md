@@ -29,3 +29,7 @@ const tobi = {
 <a href="https://github.com/TobiasLueger/Jugend-Eifelverein-Website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TobiasLueger&repo=Jugend-Eifelverein-Website&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Jugend-Eifelverein-Website" />
 </a>
+
+<a href="https://github.com/Blind-Date-Official/Blind-Date">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Blind-Date-Official&repo=Blind-Date&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Blind-Date" />
+</a>
