@@ -1,8 +1,6 @@
 <h2> Hi, I'm Tobias! <img src="https://media0.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=ecf05e47v52kfnm9yky44k3bfko48aaas26wypbcrj9ex151&rid=giphy.gif&ct=s" width="30"></h2>
 <p>
-  <em>
-    @Moment: Frontend Developer at <a href="https://www.agentur-brandung.de/">brandung GmbH </a>
-  </em>
+  <b>@Moment:</b> Frontend Developer at <a href="https://www.agentur-brandung.de/">brandung GmbH </a>
 </p>
 
 [![Twitter: oftoto_official](https://img.shields.io/twitter/follow/oftoto_official?style=social)](https://twitter.com/oftoto_official)
