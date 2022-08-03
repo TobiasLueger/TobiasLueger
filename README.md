@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Sparkline](https://stars.medv.io/TobiasLueger/badges.svg)](https://stars.medv.io/TobiasLueger/badges)
+
 <!--
 **TobiasLueger/TobiasLueger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
