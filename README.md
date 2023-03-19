@@ -15,9 +15,14 @@ const tobi = {
     type: "mobile dating app",
     role: "owner/lead-developer"
   },
-  challenge: "I am always trying to learn something new :)"
+  challenge: "I am always trying to learn something new :)",
+  portfolio: "<a href="https://www.agentur-brandung.de/">"
 }
 ```
+
+<p> 
+  <b>Portfolio:</b> <a href="https://tobias-lueger.de/">Tobias Lüger - Frontend Developer</a>🔥
+</p>
 
 ### <img src="https://media0.giphy.com/media/jpRLmB4ywwHqzQF4sI/giphy.gif?cid=ecf05e47iju3pgczar91sn1wq3f51yj6qo1m4h0ybfbo0e1o&rid=giphy.gif&ct=s" width="30"> Highlight Projects
 
