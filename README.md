@@ -8,8 +8,8 @@
 ```javascript
 const tobi = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, React Native, TailwindCSS, Storybook, Cypress],
+  code: [Javascript, Typescript, HTML5, CSS3],
+  tools: [React, React Native, Next.js, TailwindCSS, Storybook, Cypress],
   founder: {
     project: "Blind Date",
     type: "mobile dating app",
