@@ -15,8 +15,7 @@ const tobi = {
     type: "mobile dating app",
     role: "owner/lead-developer"
   },
-  challenge: "I am always trying to learn something new :)",
-  portfolio: "<a href="https://www.agentur-brandung.de/">"
+  challenge: "I am always trying to learn something new :)"
 }
 ```
 
