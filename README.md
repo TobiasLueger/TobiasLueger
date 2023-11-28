@@ -38,8 +38,8 @@ const tobi = {
 
 <br/>
 
-<a href="https://github.com/TobiasLueger/pnpMeetup">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TobiasLueger&repo=pnpMeetup&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="PnP Meetup" />
+<a href="https://github.com/TobiasLueger/storybook-custom-theme-switcher">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TobiasLueger&repo=storybook-custom-theme-switcher&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Storybook Theme Switcher" />
 </a>
 
 ###
