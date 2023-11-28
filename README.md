@@ -9,7 +9,7 @@
 const tobi = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML5, CSS3],
-  tools: [React, React Native, Next.js, TailwindCSS, Storybook, Cypress],
+  tools: [ReactJS, NextJs, TailwindCSS, Storybook, Cypress, Chromatic, Vercel],
   founder: {
     project: "Blind Date",
     type: "mobile dating app",
