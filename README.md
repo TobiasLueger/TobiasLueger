@@ -31,12 +31,6 @@ const tobi = {
 
 <br/>
 
-<a href="https://github.com/Blind-Date-Official/BlindDate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Blind-Date-Official&repo=BlindDate&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="BlindDate" />
-</a>
-
-<br/>
-
 <a href="https://github.com/TobiasLueger/storybook-custom-theme-switcher">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TobiasLueger&repo=storybook-custom-theme-switcher&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Storybook Theme Switcher" />
 </a>
