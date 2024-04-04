@@ -38,4 +38,5 @@ const tobi = {
 ###
 
 [![Twitter: oftoto_official](https://img.shields.io/twitter/follow/oftoto_official?style=social)](https://twitter.com/oftoto_official)
+[![Twitch: oftoto](https://img.shields.io/twitch/status/oftoto)](https://twitch.tv/oftoto)
 [![GitHub TobiasLueger](https://img.shields.io/github/followers/TobiasLueger?label=follow&style=social)](https://github.com/TobiasLueger)
