@@ -1,6 +1,6 @@
 <h2> Hi, I'm Tobias! <img src="https://media0.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=ecf05e47v52kfnm9yky44k3bfko48aaas26wypbcrj9ex151&rid=giphy.gif&ct=s" width="30"></h2>
 <p>
-  <b>@Moment:</b> Frontend Developer at <a href="https://www.agentur-brandung.de/">brandung GmbH </a>
+  <b>@Moment:</b> Frontend Developer at <a href="https://www.s-communication.de/">S-Communication Services GmbH</a>
 </p>
 
 <p> 
